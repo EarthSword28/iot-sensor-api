@@ -21,11 +21,21 @@
     {
       "id": 1,
       "name": "IoT-lab",
-      "building": "Hoofdgebouw",
+      "building": "Gebouw A",
       "floor": 1,
       "coordinates": {
-        "lat": 52.370216,
-        "lng": 4.895168
+        "lat": 51.17329041213374,
+        "lng": 4.371216194002843
+      }
+    },
+    {
+      "id": 2,
+      "name": "Fablab",
+      "building": "Gebouw B",
+      "floor": -1,
+      "coordinates": {
+        "lat": 51.173604880853475, 
+        "lng": 4.370677070000629
       }
     }
   ],
